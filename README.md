@@ -1,1 +1,1 @@
-link test [.git](./git/)
+link test [git](./git/)
